@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, I'm Aaron 👋
+
+- 📖 Studying Computer Science and Data Science at Stanford University
+- 🧬 Currently interested in researching machine learning applications within human biology
+- 💻 Enjoying building web and mobile applications for fun
 
 <!--
 **aaronkjin/aaronkjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
