@@ -1,4 +1,4 @@
-Hi. I'm Aaron, an undergrad at Stanford studying Computer Science and Data Science.
+Hi. I'm Aaron, an undergrad at Stanford studying Computer Science and Applied Statistics.
 
 <!--
 **aaronkjin/aaronkjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
